@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&customColorLost=0,1,2,&text=Who's%20that%20Tech%20Enginner%20?&fontSize=55&fontAlign=60&desc=It%20is%20Dustin!&descSize=40&descAlignY=75&descAlign=60)
+![Header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&customColorLost=0,1,2,&text=Who's%20that%20Tech%20Enginner%20?&fontSize=55&fontAlign=50&desc=It%20is%20Dustin!&descSize=40&descAlignY=75&descAlign=50)
 
 <h2 align="center">
   Let's connect and have a chat 💬
