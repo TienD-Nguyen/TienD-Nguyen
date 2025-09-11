@@ -29,7 +29,8 @@ class Dustin:
       "University of Technology Sydney": "Bachelor of Science in Information Technology (Data Analyst)"
     }
     self.background = {
-      "UBS": "Tech Engineer in Market Data Technology"
+      "UBS" <2023-2025>    : "Tech Engineer - Market Data Technology"
+      "CBOE"<2025-present> : "Specialist - Operation Support Centre"
     }
     self.skills = {
       "Programming": ["Python", "SQL"],
