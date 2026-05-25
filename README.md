@@ -23,14 +23,14 @@ class Dustin:
     self.username = "TienD-Nguyen"
     self.position = "Infrastructure Engineer"
     self.location = "Sydney, Australia"
-    self.interests = ["DevOps", "Infrastructure Engineer", "Cloud Computing", "Automation",
+    self.interests = ["Finance", "Infrastructure Engineer", "Automation",
                       "High Performance Computing", "Formula 1"]
     self.education = {
       "University of Technology Sydney": "Bachelor of Science in Information Technology (Data Analyst)"
     }
     self.background = {
-      "UBS" <2023-2025>    : "Tech Engineer - Market Data Technology"
-      "CBOE"<2025-present> : "Specialist - Operation Support Centre"
+      "UBS  <2023-2025>"    : "Tech Engineer - Market Data Technology"
+      "CBOE <2025-present>" : "Specialist - Operation Support Centre"
     }
     self.skills = {
       "Programming": ["Python", "SQL"],
@@ -55,7 +55,6 @@ if __name__ == "__main__":
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="45", height="45" alt="Ansible"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45", height="45" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45", height="45" alt="VSCode"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="45", height="45" alt="Bash"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" width="45", height="45" alt="RedHat"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rockylinux/rockylinux-original.svg" width="45", height="45" alt="Rocky Linux"/>
